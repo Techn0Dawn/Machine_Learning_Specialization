@@ -1,16 +1,16 @@
 # How to work with this Repository
 
 Add an virtual environment for python if not already done
-python -m venv clipboardListener-env
+python -m venv machineLearning-env
 
 Activate the venv
 On Windows, run:
 
-clipboardListener\Scripts\activate
+machineLearning\Scripts\activate
 
 On Unix or MacOS, run:
 
-source clipboardListener/bin/activate
+source machineLearning/bin/activate
 
 install needed packages
 python -m pip install -r requirements.txt
